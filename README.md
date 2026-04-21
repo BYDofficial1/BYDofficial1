@@ -2,21 +2,17 @@
 
 ```bash
 > Initializing Developer Profile...
-> Loading Skills...
+> Bypassing Limits...
+> Injecting Hacker Mode...
 > Access Granted ✅
 ```
 
 ## 🧠 About Me
 
-I am **Malik Shahzaib** — a **Full Spectrum Developer** who builds across multiple domains.
+I am **Malik Shahzaib** — a **Full Spectrum Developer** with a strong hacker mindset.
 
-⚡ I focus on:
-- Real-world problem solving
-- Automation systems
-- AI-powered tools
-- Efficient & scalable software
-
-🧩 I don’t stick to one stack — I explore everything from **web → systems → automation → advanced concepts**.
+⚡ I design systems, break complex problems, and build powerful solutions.
+🧩 Working across **web → automation → system-level → AI tools**.
 
 ---
 
@@ -24,81 +20,49 @@ I am **Malik Shahzaib** — a **Full Spectrum Developer** who builds across mult
 
 ```bash
 Role        : Full Stack + System Developer
-Mindset     : Builder + Hacker Mentality
-Focus       : Performance | Logic | Automation
-Level       : Continuous Learning Mode
+Mindset     : Hacker + Builder
+Focus       : Logic | Automation | Performance
+Mode        : Stealth Learning
+Status      : ACTIVE
 ```
-
----
-
-## 🛠️ Skill Matrix
-
-### 💻 Programming Languages
-- JavaScript (Advanced)
-- Python (Automation / AI)
-- C / C++ (Basics / Concepts)
-- SQL (Database Handling)
-
-### 🌐 Web Development
-- Frontend (HTML, CSS, JS)
-- Responsive Design
-- API Integration
-- Auth Systems
-
-### ⚙️ Backend & Systems
-- Basic Backend Logic
-- File Handling Systems
-- Process Automation
-- CLI Tools
-
-### 🤖 AI & Automation
-- AI Tool Usage (Claude, GPT, etc.)
-- Workflow Automation
-- Smart Agents (Local Based)
-
-### 🧰 Tools & Tech
-- Git & GitHub
-- VS Code / CLI
-- JSON / APIs
-- Debugging & Optimization
-
-### 🔐 Security & Hacker Mindset
-- Basic Cybersecurity Concepts
-- System Understanding
-- Logic Breaking & Testing
-- Debugging Like a Hacker
 
 ---
 
 ## 🧩 What I Do
 
 ```bash
-✔ Build systems that solve real problems
-✔ Create automation to save time
-✔ Develop tools instead of repeating tasks
-✔ Think like a hacker, build like an engineer
+✔ Build real-world systems
+✔ Automate workflows
+✔ Break & analyze logic
+✔ Create powerful dev tools
+✔ Optimize everything
 ```
 
 ---
 
 ## 📊 Dev Philosophy
 
-> "Code is not just code — it's a weapon to solve problems."
+> "Hack the system. Build the future."
 
+- Think Deep
 - Build Smart
-- Keep It Clean
-- Optimize Everything
-- Never Stop Learning
+- Stay Dangerous
+- Keep Evolving
 
 ---
 
-## 🌐 Connect
+## ☎️ Contact
 
-- GitHub: https://github.com/BYDofficial1
+```bash
+WhatsApp : https://wa.me/447465933287
+Email    : malikshahzaibmukhtiar7860@gmail.com
+GitHub   : https://github.com/BYDofficial1
+```
 
 ---
 
 ```bash
-> Status: ACTIVE 🚀
-> Mode: BUILDING...
+> SYSTEM STATUS: ONLINE 🟢
+> SECURITY LAYER: ENABLED 🔐
+> MODE: EXECUTING...
 ```
